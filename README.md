@@ -1,2 +1,2 @@
 # ML_PROJECTS
-This repository contains machine learning and deep learning projects
+This repository contains basic machine learning and deep learning projects
